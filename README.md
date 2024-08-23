@@ -6,7 +6,7 @@ Which pieces of the code did you find most challenging to write, and how did you
 What skills from this project will be particularly transferable to other projects or course work?
 How did you make this program maintainable, readable, and adaptable?
 
-The purpose of this project is to define the methods of the InvestmentCalculator class to evaluate and output
+I chose the second project. The purpose of this project is to define the methods of the InvestmentCalculator class to evaluate and output
 investment balances with/without monthly deposits.I think that I wrote my code in a condensed fashion. Security
 would certainly be something that could be added if desired. I did not find this code particularly hard to write,
 but it was a fun use of skills. I think that this entire project will be transferable to other projects and course
